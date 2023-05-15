@@ -18,7 +18,7 @@ sklearn, pandas, XGBoost, PyTorch [<img src='https://cdn.jsdelivr.net/npm/simple
 I am inspired by the development of Algorithms and Data Structures that are optimal for specific tasks.\
 In my free time I like to play sports, listen to music and solve algorithmic problems
 
-*My current Leetcode Stats:* [<img src='https://user-images.githubusercontent.com/58306690/180311354-f9a2022a-9ddb-4085-9aeb-3bec75bdef47.svg' alt = 'leetcode' height='15'>](https://leetcode.com/mordi174/)
+*My current Leetcode Stats:* [<img src='https://user-images.githubusercontent.com/58306690/180311354-f9a2022a-9ddb-4085-9aeb-3bec75bdef47.svg' alt = 'leetcode' height='15'>](https://leetcode.com/zinchse/)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mordi174)](https://github.com/KnlnKS/leetcode-stats)
 
