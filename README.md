@@ -2,15 +2,9 @@
 
 ## About me
 
-I am a master student in Computer Science. I am currently working as a  researcher and developer in \
-Machine Learning and Database at Huawei [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/huawei.svg' alt='huawei' height='20'>](https://career.huawei.ru/rri/en/).
+I am a master student in Computer Science. I am currently working as a  R & D engineer in \
+Machine Learning and Database Optimization at Huawei [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/huawei.svg' alt='huawei' height='20'>](https://career.huawei.ru/rri/en/).
 You can learn a little more about me [[here]](https://zinchse.github.io)
-
-// ## My Technologies
-//
-// ### Python [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='20'>](https://www.python.org/?hl=EN)
-//sklearn, pandas, XGBoost, PyTorch [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='15'>](https://pytorch.org/)
-//<!-- ### C++ [<img src='https://user-images.githubusercontent.com/58306690/180310746-aaae61b3-af60-4eed-a128-3dbe3e4cc8f2.svg' alt = 'cplusplus' height='20'>](https://cplusplus.com/) -->
 
 
 ## Hobby
